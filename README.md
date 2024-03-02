@@ -1,1 +1,2 @@
 # LabQTWidget
+README FOR TASK 2.7 
